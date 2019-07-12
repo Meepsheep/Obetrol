@@ -17,7 +17,7 @@ my $cookie_jar = HTTP::Cookies->new;
         $ua->cookie_jar($cookie_jar);
         #$ua->proxy(https => 'http://'.$proxy);
 
-# [signup url]
+# 
 
 my $get_signup_page = $ua->get('');
         my $signup_page_string = $get_signup_page->as_string;
@@ -26,7 +26,10 @@ my $get_signup_page = $ua->get('');
 my $signup = $ua->post(
         '',
         Content_Type => '',
+        #Content_Type => 'application/x-www-form-urlencoded',
         Accept => '',
+        #Accept => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        #Accept => '*/*',
         Content =>
         [
         ]

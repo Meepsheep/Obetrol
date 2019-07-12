@@ -49,15 +49,11 @@ while ($fuck_real_life_anime_is_real_life < $signup_count) {
 
 	$current_signup = shift(@signups);
 
-	if ($current_signup =~ m/(.*)\.pl$/) {
+	if (($current_signup =~ m/(.*)\.pl$/) and ($current_signup ne 'template.pl')) {
 
-		unless ($current_signup eq 'template.pl') {
-
-			print 'Running '.$current_signup."\n";
-			print `perl $signups_dir/$current_signup $target $proxy $user_agent`;
-			print "\n";
-
-		}
+		print 'Running '.$current_signup."\n";
+		print `perl $signups_dir/$current_signup $target $proxy $user_agent`;
+		print "\n";
 
 	}
 
