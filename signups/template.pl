@@ -27,6 +27,7 @@ my $signup = $ua->post(
         '',
         Content_Type => '',
         #Content_Type => 'application/x-www-form-urlencoded',
+        #Content_Type => 'multipart/form-data',
         Accept => '',
         #Accept => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         #Accept => '*/*',

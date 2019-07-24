@@ -17,25 +17,32 @@ my $cookie_jar = HTTP::Cookies->new;
         $ua->cookie_jar($cookie_jar);
         $ua->proxy(https => 'http://'.$proxy);
 
-# http://www.ufcw1500.org/email-updates
+# http://www.africanpetroleum.com.au/media-centre/email-alert-sign
 
-my $get_signup_page = $ua->get('http://www.ufcw1500.org/email-updates');
+my $get_signup_page = $ua->get('http://www.africanpetroleum.com.au/media-centre/email-alert-sign');
         my $signup_page_string = $get_signup_page->as_string;
         # my () = ($signup_page_string =~ m//);
 
 my $signup = $ua->post(
-        'https://app.icontact.com/icp/core/mycontacts/signup/designer/form/?id=19&cid=402019&lid=40564',
+        'https://africanpetroleum.us6.list-manage.com/subscribe/post?u=07097e4e708cb91cfe21dde54&id=b10181f706',
+        #Content_Type => '',
         Content_Type => 'application/x-www-form-urlencoded',
+        #Content_Type => 'multipart/form-data',
+        #Accept => '',
         Accept => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        #Accept => '*/*',
         Content =>
         [
-        'data[fname]' => 'Gay Nigger Association of America',
-        'data[lname]' => 'Gay Nigger Association of America',
-        'data[email]' => $target,
-        'data[business]' => 'Default Value',
-        'data[store#]' => '',
-        'data[phone]' => '',
-        'data[listGroups][]' => '9897429'
+        'FNAME' => 'Gay Nigger Association of America',
+        'EMAIL' => $target,
+        'CATEGORY' => 'Broker/Analyst',
+        'OTHER' => 'Yes',
+        'group[1441][1]' => '1',
+        'group[1441][2]' => '1',
+        'group[1441][4]' => '1',
+        'b_07097e4e708cb91cfe21dde54_b10181f706' => '',
+        'subscribe' => 'Register with this alert service'
         ]
         );
+
 
