@@ -23,7 +23,6 @@ my $get_signup_page = $ua->get('https://www.riseagainsthunger.org/sign-up-for-ou
 	my $signup_page_string = $get_signup_page->as_string;
 
 my ($oid) = ($signup_page_string =~ m/\<input type\=hidden name\=\"oid\" value\=\"(.*)\"\>/);
-	print 'oid: '.$oid."\n";
 
 my $signup = $ua->post(
 	'https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8',
