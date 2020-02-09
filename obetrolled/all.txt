@@ -1,0 +1,127 @@
+--------------------------------------------------
+
+From: "Catholic Legal Immigration Network, Inc." <national@cliniclegal.org>
+Subject: Unwanted and offensive subscription under investigation
+Date: Thu, 1 Aug 2019 20:48:09 +0000
+
+Update from CLINIC
+
+Hello, and apologies for another unwanted email. You will be unsubscribed from CLINIC's mailing list immediately upon the delivery of this message. If you wish to remain on our lists, please check back on our website to subscribe once again in the coming week.
+
+There appears to have been an attack on our system in which a number of people’s emails, including yours, were added to our mailing list under an offensive name. We have alerted our IT experts and have added additional security measures to prevent future attacks. We apologize for the discomfort and inconvenience this unexpected incident may have caused.
+
+Sincerely,
+CLINIC
+
+--------------------------------------------------
+
+From: Schoedinger Funeral and Cremation Services <noreply@lifetributes.com>
+Subject: Unintended subscription to Daily Email Affirmations
+Date: 2 Aug 2019 16:27:05 -0400
+
+Hello,
+
+We are aware that you were signed up to receive daily email affirmations from our website.
+
+We want to first apologize for that occurring, and also provide some information that may be helpful to you.
+
+There was an attack on somebody's email account that signed up people that were in their contacts to a number of different website forms and/or subscriptions. We do not know whose contact list was used, however we have confirmed it was not from anyone within our organization.
+
+We've also confirmed with our website provider it was a malicious bot that performed these signups robotically.
+
+Our website provider has removed you, as well as all other emails that were part of this. In total, there were 2,999 emails that were signed up without their knowledge or desire.
+
+Further, our website provider did look through internal logs to see if there was a way to track down the person or bot that has caused this, however the logs showed this bot was using many different computers across the world. Therefore, it is virtually impossible to identify the person who initiated or built the malicious bot.
+
+Also, we ask that please do not reply directly to this email. But rather, please do send any questions, comments, or concerns to info@schoedinger.com.
+
+We apologize for any inconvenience this has cause you.
+
+Sincerely,
+
+Schoedinger Funeral and Cremation Services
+
+--------------------------------------------------
+
+From: Christy Wright <hello@businessboutique.com>
+Subject: We Owe You An Apology
+Date: Thu, 8 Aug 2019 11:56:56 -0400 (EDT)
+
+Hello,
+
+We want to extend our sincerest apologies for the message you may have received this morning. Earlier today, an email sign up form was populated on our website by a spam robot and was used to send an offensive email. This was not a breach of data, but a mass email from a spam bot. We are personally appalled by the language in the email, and we reject the derogatory terms that were used. We are truly sorry if you received this email.
+
+We have received multiple reports that this technique has been used on other websites not associated with our company.
+
+We care deeply about our Business Boutique tribe and have taken every measure to ensure this will not happen again. If you have any questions or concerns, please reach out to us at hello@businessboutique.com. Again, we are truly sorry and please know this is not a reflection of our beliefs.
+
+Sincerely,
+
+Christy Wright, Creator of Business Boutique
+Jennifer Sievertsen, Chief Marketing Officer of Ramsey Solutions
+
+--------------------------------------------------
+
+From: Lawrence Welsby <Lawrence.Welsby@coolearth.org>
+Subject: Re: Cool Earth Newsletter Signup
+Date: Tue, 24 Sep 2019 11:45:05 +0000
+
+Hi,
+
+Recently, you were sent a ‘Thank you for signing up to our newsletter’ email from Cool Earth.
+
+We are aware that you did not sign up for our newsletter and have reason to believe that your email address has been acquired by a third party without your permission.
+
+From our records, we can see that your address has been maliciously submitted to our database via our email signup form, alongside offensive language in the name fields.
+
+Please accept my apologies for any inconvenience or distress this may have caused. Cool Earth is investigating this further and is working to improve its systems to avoid future issues such as this. 
+
+Please be assured that your data will not be processed by Cool Earth and your record will be deleted from our database following this email. 
+
+If you would like to discuss this further, please do not hesitate to get in touch.
+
+Kind regards,
+Lawrence Welsby
+Data & Insight Manager
++447538874714 |  coolearth.org
+
+--------------------------------------------------
+
+From: Robinhood <support@robinhood.com>
+Subject: Regarding Our Recent Email
+Date: Wed, 25 Sep 2019 23:18:42 +0000 (UTC)
+
+Hello, 
+ 
+Earlier this morning, multiple applications were started on the Robinhood platform using fake names and real email addresses—including your email address.
+ 
+Our system sends automatic email reminders to applicants with unfinished applications. You may have seen this email earlier today and, if so, we're very sorry for your experience.
+ 
+We want to let you know that our team has stopped this activity and is actively working to help prevent a similar situation from happening again. 
+ 
+This is not in line with the experience we want anyone to have with Robinhood, especially as a first impression. We’re deeply sorry about this. 
+ 
+As a corrective action, we will close the unfinished application attached to your email address so you should not receive any communications from us going forward about the application.
+ 
+Please let our team know if you have any concerns or questions. We’re here to help.
+
+--------------------------------------------------
+
+From: Carvana <executiveresolution@carvana.com>
+Subject: Message from Carvana
+Date: Wed, 25 Sep 2019 18:30:07 -0500 (CDT)
+
+Hello,
+
+Unfortunately we believe that earlier today you received an email from Carvana containing offensive language in the subject line, and we wanted to apologize; we do not tolerate that kind of language and would never communicate with our customers in that way. When investigating the source, we discovered that a bad actor unaffiliated with Carvana had created a handful of fake accounts using email addresses like yours.
+
+We have identified and isolated the issue, and we are extremely sorry this happened and that you were affected. If you have further questions, please do not hesitate to reach out to us at 1-800-333-4554 or executiveresolution@carvana.com.
+
+Thank You,
+
+Carvana
+1930 W Rio Salado Pkwy /// Tempe AZ 85281
+P: 800-333-4554
+
+--------------------------------------------------
+

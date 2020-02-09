@@ -18,7 +18,6 @@ my $cookie_jar = HTTP::Cookies->new;
         $ua->proxy(https => 'http://'.$proxy);
 
 # https://www.ulysse-nardin.com/subscribe-our-newsletter
-# ulyssenardin
 
 my $get_signup_page = $ua->get('https://www.ulysse-nardin.com/subscribe-our-newsletter');
         my $signup_page_string = $get_signup_page->as_string;

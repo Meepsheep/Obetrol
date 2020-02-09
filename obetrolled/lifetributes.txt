@@ -1,0 +1,25 @@
+From: Schoedinger Funeral and Cremation Services <noreply@lifetributes.com>
+Subject: Unintended subscription to Daily Email Affirmations
+Date: 2 Aug 2019 16:27:05 -0400
+
+Hello,
+
+We are aware that you were signed up to receive daily email affirmations from our website.
+
+We want to first apologize for that occurring, and also provide some information that may be helpful to you.
+
+There was an attack on somebody's email account that signed up people that were in their contacts to a number of different website forms and/or subscriptions. We do not know whose contact list was used, however we have confirmed it was not from anyone within our organization.
+
+We've also confirmed with our website provider it was a malicious bot that performed these signups robotically.
+
+Our website provider has removed you, as well as all other emails that were part of this. In total, there were 2,999 emails that were signed up without their knowledge or desire.
+
+Further, our website provider did look through internal logs to see if there was a way to track down the person or bot that has caused this, however the logs showed this bot was using many different computers across the world. Therefore, it is virtually impossible to identify the person who initiated or built the malicious bot.
+
+Also, we ask that please do not reply directly to this email. But rather, please do send any questions, comments, or concerns to info@schoedinger.com.
+
+We apologize for any inconvenience this has cause you.
+
+Sincerely,
+
+Schoedinger Funeral and Cremation Services
